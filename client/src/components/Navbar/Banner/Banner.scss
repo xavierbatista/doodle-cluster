@@ -1,0 +1,16 @@
+.banner {
+  position: absolute;
+
+  bottom: -40px;
+  width:100%;
+  background-color: #59cdff;
+  text-align: center;
+  padding-bottom: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.banner span {
+  text-decoration: underline;
+  cursor: pointer;
+}

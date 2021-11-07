@@ -1,0 +1,21 @@
+//.background-darken is also styled in FormModal.scss
+.background-darken {
+  position: absolute;
+  height: 100vh;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+//style .view-drawing-modal when I add the like and report buttons inside
+.view-drawing-modal {
+}
+
+//original image scaled down
+.view-drawing-modal img {
+  width: 1109.33px;
+  border: 3px solid black;
+  background-color: white;
+}

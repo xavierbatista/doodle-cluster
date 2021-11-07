@@ -1,0 +1,76 @@
+.background-darken {
+  position: absolute;
+  height: 100vh;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.form-modal {
+  padding: 60px;
+  background-color: #ffc793;
+  border-radius: 30px;
+  border: 3px solid black;
+}
+
+.form-modal h1 {
+  text-align: center;
+  font-size: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.form-modal .wrong-modal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.form-modal .wrong-modal h2 {
+  font-size: 20px;
+  margin-top: -2px;
+  font-weight: 100;
+}
+
+.form-modal {
+  .wrong-modal .log-in {
+    cursor: pointer;
+    text-decoration: underline;
+    margin-left: 3px;
+  }
+}
+
+.form-modal {
+  form input {
+    height: 44px;
+    width: 394px;
+    display: block;
+    margin-top: 26px;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    border-radius: 5px;
+    font-size: 25px;
+    padding: 13px;
+    font-weight: 100;
+  }
+}
+
+.form-modal {
+  form input:focus {
+    outline: none;
+  }
+}
+
+.form-modal {
+  form .submit-button {
+    cursor: pointer;
+    padding: 0px;
+    font-weight: 700;
+    font-size: 25px;
+    background-color: #59cdff;
+  }
+}

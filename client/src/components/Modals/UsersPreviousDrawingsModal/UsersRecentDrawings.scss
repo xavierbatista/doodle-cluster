@@ -1,0 +1,32 @@
+.coming-soon {
+  font-size: 30px;
+}
+
+.users-recent-drawings-container {
+  background-color: #ffc793;
+  border-radius: 30px;
+  border: 3px solid black;
+}
+
+.users-recent-drawings-header {
+  padding-bottom: 5px;
+}
+
+.users-recent-drawings {
+  height: 600px;
+  width: 1100px;
+  padding: 0 30px 0 30px;
+  overflow: scroll;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.recent-drawing {
+  height: 20%;
+  width: auto;
+  background-color: white;
+  margin: 15px;
+  cursor: pointer;
+}

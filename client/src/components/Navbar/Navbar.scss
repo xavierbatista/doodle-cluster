@@ -1,0 +1,35 @@
+nav {
+  height: 48px;
+  width: 1280px;
+  background-color: #ffc793;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 3px solid black;
+  position: relative;
+}
+
+nav button {
+  font-weight: 700;
+  width: 135px;
+  height: 48px;
+  border: none;
+  text-decoration: none;
+  background-color: transparent;
+  font-size: 30px;
+  width: auto;
+  margin-right: 40px;
+  cursor: pointer;
+  margin-top: -5px;
+  padding: 0 10px;
+}
+
+.username-button{
+  cursor: default;
+}
+
+nav .logo {
+  margin-left: 40px;
+  width: 215.5px;
+  height: 30.5px;
+}
