@@ -1,2 +1,2 @@
-A website where users can add to previous user's drawings.
+A website where users can add to previous users' drawings.
 https://www.doodlecluster.com/
