@@ -1,12 +1,12 @@
 import React from 'react';
-import './App.css';
+import './App.scss';
 import DrawingPage from './pages/DrawingPage/DrawingPage';
 
 function App() {
   return (
-    <div className="App">
+    <>
       <DrawingPage />
-    </div>
+    </>
   );
 }
 

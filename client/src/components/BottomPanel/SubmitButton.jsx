@@ -40,6 +40,7 @@ function SubmitButton() {
         console.error(error.message);
       }
 
+      //get another canvas
       getCanvas();
       setNumberOfChangesUserMade(0);
 
