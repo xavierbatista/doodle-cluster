@@ -3,3 +3,7 @@
 This project uses React, Node.js, Express.js, and PostgreSQL.
 </p>
 <br />
+
+<p>
+Website no longer works because Heroku (the hosting provider for this website) isn't free anymore and I don't feel like setting it up somewhere else.
+</p>
