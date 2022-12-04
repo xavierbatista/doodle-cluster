@@ -3,7 +3,3 @@
 This project uses React, Node.js, Express.js, and PostgreSQL.
 </p>
 <br />
-
-<p>
-website no longer work after november
-</p>
